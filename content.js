@@ -1,7 +1,18 @@
 const codeToNameMap = {
-  "COMP 60001": "Advanced Architecture",
+  "COMP 60001": "Advanced Computer Architecture",
+  "COMP 60002": "Advanced Databases",
+  "COMP 60005": "Graphics",
+  "COMP 60006": "Computer Vision",
+  "COMP 60007": "The Theory and Practice of Concurrent Programming",
   "COMP 60008": "Custom Computing",
+  "COMP 60009": "Distributed Algorithms",
+  "COMP 60013": "Logic-Based Learning",
+  "COMP 60015": "Networks and Web Security",
+  "COMP 60016": "Operations Research",
+  "COMP 60017": "System Performance Engineering",
+  "COMP 60019": "Robotics",
   "COMP 60020": "Simulation and Modelling",
+  "COMP 60023": "Type Systems for Programming Languages",
   "COMP 70001": "Advanced Computer Graphics",
   "COMP 70004": "Advanced Computer Security",
   "COMP 70005": "Complexity",
@@ -24,9 +35,13 @@ const codeToNameMap = {
   "COMP 70028": "Reinforcement Learning",
   "COMP 70030": "Knowledge Representation",
   "COMP 70031": "Modal Logic for Strategic Reasoning in AI",
+  "COMP 70050": "Introduction to Machine Learning",
   "COMP 70066": "Decentralised Finance",
   "COMP 70067": "Robot Learning and Control",
   "COMP 70068": "Scheduling & Resource Alloc",
+
+  "ELEC60015/96019": "High Level Programming",
+  "ELEC96011/ELEC60011/ELEC97007": "Digital Systems Design"
 };
 
 const expandButtonSelector = "span.sbi-content";
