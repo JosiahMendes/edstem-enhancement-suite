@@ -41,7 +41,8 @@ const codeToNameMap = {
   "COMP 70068": "Scheduling & Resource Alloc",
 
   "ELEC60015/96019": "High Level Programming",
-  "ELEC96011/ELEC60011/ELEC97007": "Digital Systems Design"
+  "ELEC96011/ELEC60011/ELEC97007": "Digital Systems Design",
+  "ELEC60013/96018": "Embedded Systems"
 };
 
 const expandButtonSelector = "span.sbi-content";
